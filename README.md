@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Shawaiz Khan</h1>
+<h1 align="center">👋</h1>
 
 <div align="center">
   <!-- Intro Banner GIF -->
   <img src="https://github.com/shawaiz-khan/shawaiz-khan/blob/main/banner.gif" alt="Intro Banner" style="max-width: 100%; height: auto;" />
 </div>
 
-<p align="center">A Passionate Frontend Developer from Pakistan</p>
+<p align="center">(Open for Hiring)</p>
 
 <!-- Profile Views -->
 <p align="center">
@@ -14,19 +14,31 @@
 
 ---
 
-### 👨‍💻 About Me
-
-- 🌱 I’m currently learning **Next.js**
-- 👯 I’m looking to collaborate on **React projects**
-- 👨‍💻 All of my projects are available at [devdigitals.org](https://devdigitals.org)
-- 💬 Ask me about **React, Tailwind CSS**
-- 📫 How to reach me **shawaiskhan.biz@gmail.com**
-- 📄 Know about my experiences [devdigitals.org](https://devdigitals.org)
+<table style="width: 100%; border: none; padding: 0;">
+  <tr>
+    <td style="width: 50%; vertical-align: top; padding: 10px;">
+      <h3>👨‍💻 About Me</h3>
+      <ul>
+        <li>🌱 I’m currently learning <strong>Next.js</strong></li>
+        <li>👯 I’m looking to collaborate on <strong>React projects</strong></li>
+        <li>👨‍💻 All of my projects are available at <a href="https://devdigitals.org">devdigitals.org</a></li>
+        <li>💬 Ask me about <strong>React, Tailwind CSS</strong></li>
+        <li>📫 How to reach me <strong>shawaiskhan.biz@gmail.com</strong></li>
+        <li>📄 Know about my experiences <a href="https://devdigitals.org">devdigitals.org</a></li>
+      </ul>
+    </td>
+    <td style="width: 50%; vertical-align: top; padding: 10px;">
+      <h3>🛠️ Most Used Languages</h3>
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shawaiz-khan&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="width: 100%;" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🛠️ Languages and Tools
-
+<h3>🛠️ Languages and Tools</h3>
 <p align="center" style="font-size: larger;">
   <!-- Language and Tool Badges -->
   <img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&logoWidth=20&logoHeight=20" style="border-radius: 10px;" />
@@ -42,6 +54,8 @@
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&logoWidth=20&logoHeight=20" style="border-radius: 10px;" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white&logoWidth=20&logoHeight=20" style="border-radius: 10px;" />
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=20&logoHeight=20" style="border-radius: 10px;" />
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&logoWidth=20&logoHeight=20" style="border-radius: 10px;" />
+  <img alt="Dev-C++" src="https://img.shields.io/badge/-Dev--C++-5F5F5F?style=for-the-badge&logo=cplusplus&logoColor=white&logoWidth=20&logoHeight=20" style="border-radius: 10px;" />
 </p>
 
 ---
@@ -52,7 +66,6 @@
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=shawaiz-khan&show_icons=true&locale=en" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shawaiz-khan&" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shawaiz-khan&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
 ---
