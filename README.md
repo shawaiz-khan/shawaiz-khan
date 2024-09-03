@@ -1,51 +1,32 @@
-<h1 align="center">👋</h1>
+<h1 align="center">👋 Welcome!</h1>
 
 <div align="center">
-  <!-- Intro Banner GIF -->
   <img src="https://github.com/shawaiz-khan/shawaiz-khan/blob/main/banner.gif" alt="Intro Banner" style="max-width: 100%; height: auto;" />
 </div>
 
 <p align="center">(Open for Hiring)</p>
 
-<!-- Profile Views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shawaiz-khan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+---
+
+### 👨‍💻 About Me
+
+I am a passionate Frontend Web Developer and Designer with a strong focus on React, Tailwind CSS, and WordPress. My journey in web development has been driven by a deep appreciation for design and a commitment to creating seamless, user-centric web experiences. With a solid foundation in CSS, JavaScript, and Graphic Design, I excel at blending technical skills with creative vision to deliver engaging, high-quality projects. My approach involves a meticulous attention to detail and a dedication to ensuring that every project not only meets but exceeds user expectations.
+
+Currently, I am expanding my expertise by diving into Next.js to further enhance my full-stack capabilities. I am actively seeking new and exciting opportunities to collaborate on React projects where I can contribute my skills and learn from others. If you have any questions about React, Tailwind CSS, or frontend development in general, feel free to reach out to me via email at shawaiskhan.biz@gmail.com or explore my comprehensive portfolio at devdigitals.org.
+
+I am open to new career opportunities and am eager to bring my skills to a dynamic team. If you are looking for a dedicated and innovative developer who can drive impactful projects and contribute to your team’s success, I would love to discuss how I can be a valuable asset. Let’s connect and explore how we can work together to achieve your goals!
 
 ---
 
-<table style="width: 100%; border: none; padding: 0;">
-  <tr>
-    <td style="width: 50%; vertical-align: top; padding: 10px;">
-      <h3>👨‍💻 About Me</h3>
-      <ul>
-        <li>🌱 I’m currently learning <strong>Next.js</strong></li>
-        <li>👯 I’m looking to collaborate on <strong>React projects</strong></li>
-        <li>👨‍💻 All of my projects are available at <a href="https://devdigitals.org">devdigitals.org</a></li>
-        <li>💬 Ask me about <strong>React, Tailwind CSS</strong></li>
-        <li>📫 How to reach me <strong>shawaiskhan.biz@gmail.com</strong></li>
-        <li>📄 Know about my experiences <a href="https://devdigitals.org">devdigitals.org</a></li>
-      </ul>
-    </td>
-    <td style="width: 50%; vertical-align: top; padding: 10px;">
-      <h3>🛠️ Most Used Languages</h3>
-      <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shawaiz-khan&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="width: 100%;" />
-      </p>
-    </td>
-  </tr>
-</table>
+### 🛠️ Languages and Tools
 
----
-
-<h3>🛠️ Languages and Tools</h3>
 <p align="center" style="font-size: larger;">
-  <!-- Language and Tool Badges -->
   <img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&logoWidth=20&logoHeight=20" style="border-radius: 10px;" />
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&logoWidth=20&logoHeight=20" style="border-radius: 10px;" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&logoWidth=20&logoHeight=20" style="border-radius: 10px;" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white&logoWidth=20&logoHeight=20" style="border-radius: 10px;" />
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&logoWidth=20&logoHeight=20" style="border-radius: 10px;" />
+  <img alt="WordPress" src="https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white&logoWidth=20&logoHeight=20" style="border-radius: 10px;" />
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=for-the-badge&logo=node.js&logoColor=white&logoWidth=20&logoHeight=20" style="border-radius: 10px;" />
   <img alt="Express.js" src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white&logoWidth=20&logoHeight=20" style="border-radius: 10px;" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&logoWidth=20&logoHeight=20" style="border-radius: 10px;" />
@@ -63,9 +44,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=shawaiz-khan&show_icons=true&locale=en" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shawaiz-khan&" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shawaiz-khan&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
 ---
@@ -73,17 +54,22 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <!-- Social Links -->
   <a href="https://linkedin.com/in/shawaiz-khan" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn" />
   </a>
   <a href="https://codesandbox.com/shawaiz-khan" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="CodeSandbox" height="30" width="40" />
+    <img src="https://img.shields.io/badge/CodeSandbox-%23F7DF1E.svg?&style=for-the-badge&logo=codesandbox&logoColor=white" height="30" alt="CodeSandbox" />
   </a>
   <a href="https://instagram.com/shawaizkhan_official" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height="30" alt="Instagram" />
   </a>
   <a href="https://www.leetcode.com/shawaizkhan" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LeetCode-%23F14C28.svg?&style=for-the-badge&logo=leetcode&logoColor=white" height="30" alt="LeetCode" />
+  </a>
+  <a href="mailto:shawaiskhan.biz@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="Email" />
+  </a>
+  <a href="https://devdigitals.org" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%230A0A0A.svg?&style=for-the-badge&logo=web&logoColor=white" height="30" alt="Portfolio" />
   </a>
 </p>
