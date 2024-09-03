@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shawaiz Khan</h1>
-<h3 align="center">A Passionate Frontend Developer from Pakistan</h3>
 
-<!-- Intro Banner GIF -->
-<p align="center">
-  <img src="./shawaiz.gif" alt="Intro Banner" style="max-width: 100%; height: auto;" />
-</p>
+<div align="center">
+  <!-- Intro Banner GIF -->
+  <img src="https://github.com/shawaiz-khan/shawaiz-khan/blob/main/banner.gif" alt="Intro Banner" style="max-width: 100%; height: auto;" />
+</div>
 
+<p align="center">A Passionate Frontend Developer from Pakistan</p>
+
+<!-- Profile Views -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shawaiz-khan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
@@ -26,6 +28,7 @@
 ### 🛠️ Languages and Tools
 
 <p align="center" style="font-size: larger;">
+  <!-- Language and Tool Badges -->
   <img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&logoWidth=20&logoHeight=20" style="border-radius: 10px;" />
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&logoWidth=20&logoHeight=20" style="border-radius: 10px;" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&logoWidth=20&logoHeight=20" style="border-radius: 10px;" />
@@ -35,6 +38,7 @@
   <img alt="Express.js" src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white&logoWidth=20&logoHeight=20" style="border-radius: 10px;" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&logoWidth=20&logoHeight=20" style="border-radius: 10px;" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&logoWidth=20&logoHeight=20" style="border-radius: 10px;" />
+  <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&logoWidth=20&logoHeight=20" style="border-radius: 10px;" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&logoWidth=20&logoHeight=20" style="border-radius: 10px;" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white&logoWidth=20&logoHeight=20" style="border-radius: 10px;" />
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=20&logoHeight=20" style="border-radius: 10px;" />
@@ -45,8 +49,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
+  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=shawaiz-khan&show_icons=true&locale=en" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shawaiz-khan&" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shawaiz-khan&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
 ---
@@ -54,6 +60,7 @@
 ### 🌐 Connect with Me
 
 <p align="center">
+  <!-- Social Links -->
   <a href="https://linkedin.com/in/shawaiz-khan" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
