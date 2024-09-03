@@ -44,9 +44,9 @@ I am open to new career opportunities and am eager to bring my skills to a dynam
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shawaiz-khan&show_icons=true&locale=en" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shawaiz-khan&" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shawaiz-khan&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shawaiz-khan&" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shawaiz-khan&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
 ---
@@ -54,7 +54,7 @@ I am open to new career opportunities and am eager to bring my skills to a dynam
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/shawaiz-khan" target="_blank">
+  <a href="https://www.linkedin.com/in/bizshawaizkhan/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn" />
   </a>
   <a href="https://codesandbox.com/shawaiz-khan" target="_blank">
