@@ -4,7 +4,7 @@
   <img src="https://github.com/shawaiz-khan/shawaiz-khan/blob/main/banner.gif" alt="Intro Banner" style="max-width: 100%; height: auto;" />
 </div>
 
-<p align="center">(Open for Hiring)</p>
+<p align="center">(Open to Work)</p>
 
 ---
 
@@ -12,7 +12,7 @@
 
 I am a passionate Frontend Web Developer and Designer with a strong focus on React, Tailwind CSS, and WordPress. My journey in web development has been driven by a deep appreciation for design and a commitment to creating seamless, user-centric web experiences. With a solid foundation in CSS, JavaScript, and Graphic Design, I excel at blending technical skills with creative vision to deliver engaging, high-quality projects. My approach involves a meticulous attention to detail and a dedication to ensuring that every project not only meets but exceeds user expectations.
 
-Currently, I am expanding my expertise by diving into Next.js to further enhance my full-stack capabilities. I am actively seeking new and exciting opportunities to collaborate on React projects where I can contribute my skills and learn from others. If you have any questions about React, Tailwind CSS, or frontend development in general, feel free to reach out to me via email at shawaiskhan.biz@gmail.com or explore my comprehensive portfolio at devdigitals.org.
+Currently, I am expanding my expertise by diving into Next.js to further enhance my full-stack capabilities. I am actively seeking new and exciting opportunities to collaborate on React projects where I can contribute my skills and learn from others. If you have any questions about React, Tailwind CSS, or frontend development in general, feel free to reach out to me via email at shawaizkhan.biz@gmail.com or explore my comprehensive portfolio at devdigitals.org.
 
 I am open to new career opportunities and am eager to bring my skills to a dynamic team. If you are looking for a dedicated and innovative developer who can drive impactful projects and contribute to your team’s success, I would love to discuss how I can be a valuable asset. Let’s connect and explore how we can work together to achieve your goals!
 
