@@ -25,6 +25,7 @@ I am open to new career opportunities and am eager to bring my skills to a dynam
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&logoWidth=20&logoHeight=20" style="border-radius: 10px;" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&logoWidth=20&logoHeight=20" style="border-radius: 10px;" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white&logoWidth=20&logoHeight=20" style="border-radius: 10px;" />
+  <img alt="Material UI" src="https://img.shields.io/badge/-Material--UI-007FFF?style=for-the-badge&logo=mui&logoColor=white&logoWidth=20&logoHeight=20" style="border-radius: 10px;" />
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&logoWidth=20&logoHeight=20" style="border-radius: 10px;" />
   <img alt="WordPress" src="https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white&logoWidth=20&logoHeight=20" style="border-radius: 10px;" />
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=for-the-badge&logo=node.js&logoColor=white&logoWidth=20&logoHeight=20" style="border-radius: 10px;" />
