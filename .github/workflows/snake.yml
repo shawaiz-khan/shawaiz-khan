@@ -28,7 +28,7 @@ jobs:
         run: echo "GitHub Username: shawaiz-khan"
 
       # Generates a snake game from the GitHub user's contribution graph
-      - name: generate github-contribution-grid-snake.svg
+      - name: Generate GitHub Contribution Grid Snake
         uses: Platane/snk@v2
         with:
           github_user_name: shawaiz-khan  # Ensure the username is correct
@@ -40,7 +40,7 @@ jobs:
           ls -la dist
 
       # Push the generated SVG file to the 'output' branch
-      - name: push github-contribution-grid-snake.svg to the output branch
+      - name: Push GitHub Contribution Grid Snake to the Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
