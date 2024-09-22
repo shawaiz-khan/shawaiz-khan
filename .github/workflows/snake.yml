@@ -1,46 +1,31 @@
-name: generate animation
+name: Generate snake animation
 
 on:
-  # Run automatically every 12 hours
-  schedule:
-    - cron: "0 */12 * * *"
-  
-  # Allows to manually run the job at any time
+  schedule: # execute every 12 hours
+    - cron: "* */12 * * *"
+
   workflow_dispatch:
-  
-  # Run on every push to the master branch
+
   push:
     branches:
-      - master
+    - master
 
 jobs:
   generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 10
-    
+    timeout-minutes: 5
+
     steps:
-      # Checkout the repository to get the latest code
-      - name: Checkout repository
-        uses: actions/checkout@v3  # Stable version
-
-      # Debug step to confirm GitHub username
-      - name: Debug GitHub Username
-        run: echo "GitHub Username: shawaiz-khan"
-
-      # Generates a snake game from the GitHub user's contribution graph
-      - name: Generate GitHub Contribution Grid Snake
-        uses: Platane/snk@v2
+      - name: generate snake.svg
+        uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: shawaiz-khan  # Ensure the username is correct
+          github_user_name: ${{ github.repository_owner }}
+          outputs: dist/snake.svg?palette=github-dark
 
-      # Debug step to confirm if the SVG file is generated
-      - name: List files in dist directory
-        run: |
-          echo "Checking generated files in the dist directory..."
-          ls -la dist
 
-      # Push the generated SVG file to the 'output' branch
-      - name: Push GitHub Contribution Grid Snake to the Output Branch
+      - name: push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
