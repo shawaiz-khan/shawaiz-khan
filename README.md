@@ -45,7 +45,10 @@ I am open to new career opportunities and am eager to bring my skills to a dynam
 ### 📊 GitHub Stats
 
 <p align="start">
+  <!-- Display top languages in a compact layout -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shawaiz-khan&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+
+  <!-- Center snake animation -->
   <img align="center" width="100%" src="https://raw.githubusercontent.com/shawaiz-khan/shawaiz-khan/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
 
