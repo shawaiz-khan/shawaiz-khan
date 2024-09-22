@@ -21,13 +21,23 @@ jobs:
     steps:
       # Checkout the repository to get the latest code
       - name: Checkout repository
-        uses: actions/checkout@v3  # Updated to v3 to avoid node warnings
+        uses: actions/checkout@v3  # Stable version
+
+      # Debug step to confirm GitHub username
+      - name: Debug GitHub Username
+        run: echo "GitHub Username: shawaiz-khan"
 
       # Generates a snake game from the GitHub user's contribution graph
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk@v2
         with:
-          github_user_name: shawaiz-khan  # Ensure the username is correct and hardcoded for now
+          github_user_name: shawaiz-khan  # Ensure the username is correct
+
+      # Debug step to confirm if the SVG file is generated
+      - name: List files in dist directory
+        run: |
+          echo "Checking generated files in the dist directory..."
+          ls -la dist
 
       # Push the generated SVG file to the 'output' branch
       - name: push github-contribution-grid-snake.svg to the output branch
