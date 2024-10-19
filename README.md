@@ -1,7 +1,8 @@
 <h1 align="center">👋 Welcome!</h1>
 
 <div align="center">
-  <img src="https://github.com/shawaiz-khan/shawaiz-khan/blob/main/banner.gif" alt="Intro Banner" style="max-width: 100%; height: auto;" />
+<!--   <img src="https://github.com/shawaiz-khan/shawaiz-khan/blob/main/banner.gif" alt="Intro Banner" style="max-width: 100%; height: auto;" /> -->
+  <img src="https://github.com/shawaiz-khan/shawaiz-khan/blob/main/banner.png" alt="Intro Banner" style="max-width: 100%; height: auto;" />
 </div>
 
 <p align="center">(Open to Work)</p>
