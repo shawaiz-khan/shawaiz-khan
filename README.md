@@ -75,7 +75,7 @@ I am open to new career opportunities and am eager to bring my skills to a dynam
   <a href="mailto:shawaiskhan.biz@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="Email" />
   </a>
-  <a href="https://devdigitals.org" target="_blank">
+  <a href="https://shawaizkhan.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%230A0A0A.svg?&style=for-the-badge&logo=web&logoColor=white" height="30" alt="Portfolio" />
   </a>
 </p>
