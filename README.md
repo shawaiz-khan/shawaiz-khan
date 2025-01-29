@@ -1,4 +1,4 @@
-<h1 align="center">👋 Welcome!</h1>
+<h1 align="center">Welcome to my Profile 👋!</h1>
 
 <div align="center">
 <!--   <img src="https://github.com/shawaiz-khan/shawaiz-khan/blob/main/banner.gif" alt="Intro Banner" style="max-width: 100%; height: auto;" /> -->
