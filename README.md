@@ -1,64 +1,95 @@
-<h1 align="center">Welcome to my Profile 👋!</h1>
+<h1 align="center">👋 Welcome to My Profile!</h1>
 
 <div align="center">
-<!--   <img src="https://github.com/shawaiz-khan/shawaiz-khan/blob/main/banner.gif" alt="Intro Banner" style="max-width: 100%; height: auto;" /> -->
   <img src="https://github.com/shawaiz-khan/shawaiz-khan/blob/main/banner.png" alt="Intro Banner" style="max-width: 100%; height: auto;" />
 </div>
 
-<p align="center">(Open to Work)</p>
+<p align="center" style="font-size: 1.5rem; font-weight: bold;">🚀 Open to Work | 💻 Frontend Developer | 🎨 Creative Designer</p>
 
 ---
 
-### 👨‍💻 About Me
+## 🐍 Contributions
 
-I am a passionate Frontend Web Developer and Designer with a strong focus on React, Tailwind CSS, and WordPress. My journey in web development has been driven by a deep appreciation for design and a commitment to creating seamless, user-centric web experiences. With a solid foundation in CSS, JavaScript, and Graphic Design, I excel at blending technical skills with creative vision to deliver engaging, high-quality projects. My approach involves a meticulous attention to detail and a dedication to ensuring that every project not only meets but exceeds user expectations.
-
-Currently, I am expanding my expertise by diving into Next.js to further enhance my full-stack capabilities. I am actively seeking new and exciting opportunities to collaborate on React projects where I can contribute my skills and learn from others. If you have any questions about React, Tailwind CSS, or frontend development in general, feel free to reach out to me via email at shawaizkhan.biz@gmail.com or explore my comprehensive portfolio at devdigitals.org.
-
-I am open to new career opportunities and am eager to bring my skills to a dynamic team. If you are looking for a dedicated and innovative developer who can drive impactful projects and contribute to your team’s success, I would love to discuss how I can be a valuable asset. Let’s connect and explore how we can work together to achieve your goals!
+<div align="center">
+  <img src="https://raw.githubusercontent.com/shawaiz-khan/shawaiz-khan/output/snake.svg" alt="Snake Animation" />
+</div>
 
 ---
 
-### 👩‍💻 Contributions
+## 👨‍💻 About Me
 
-<img src="https://raw.githubusercontent.com/shawaiz-khan/shawaiz-khan/output/snake.svg" alt="Snake animation" />
+<p align="start" style="font-size: 1.1rem;">
+  Hey there! I’m a <strong>Frontend Web Developer</strong> and <strong>Creative Designer</strong> who loves building beautiful, user-friendly websites and applications. I specialize in <strong>React</strong>, <strong>Tailwind CSS</strong>, and <strong>WordPress</strong>, and I’m currently exploring <strong>Next.js</strong> to level up my full-stack skills. With a solid foundation in <strong>CSS</strong>, <strong>JavaScript</strong>, and <strong>Graphic Design</strong>, I combine technical expertise with a creative touch to deliver projects that look great and work even better.
+</p>
 
----
-### 🛠️ Languages and Tools
+<p align="start" style="font-size: 1.1rem;">
+  I enjoy solving problems and creating seamless experiences for users. Whether it’s designing responsive interfaces, optimizing performance, or bringing ideas to life, I’m always up for a challenge. I’m also diving into <strong>AI integration</strong> and <strong>headless CMS</strong> to stay ahead in the ever-evolving tech world.
+</p>
 
-<p align="center" style="font-size: larger;">
-  <img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&logoWidth=20&logoHeight=20" style="border-radius: 10px;" />
-  <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&logoWidth=20&logoHeight=20" style="border-radius: 10px;" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&logoWidth=20&logoHeight=20" style="border-radius: 10px;" />
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white&logoWidth=20&logoHeight=20" style="border-radius: 10px;" />
-  <img alt="Material UI" src="https://img.shields.io/badge/-Material--UI-007FFF?style=for-the-badge&logo=mui&logoColor=white&logoWidth=20&logoHeight=20" style="border-radius: 10px;" />
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&logoWidth=20&logoHeight=20" style="border-radius: 10px;" />
-  <img alt="WordPress" src="https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white&logoWidth=20&logoHeight=20" style="border-radius: 10px;" />
-  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=for-the-badge&logo=node.js&logoColor=white&logoWidth=20&logoHeight=20" style="border-radius: 10px;" />
-  <img alt="Express.js" src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white&logoWidth=20&logoHeight=20" style="border-radius: 10px;" />
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&logoWidth=20&logoHeight=20" style="border-radius: 10px;" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&logoWidth=20&logoHeight=20" style="border-radius: 10px;" />
-  <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&logoWidth=20&logoHeight=20" style="border-radius: 10px;" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&logoWidth=20&logoHeight=20" style="border-radius: 10px;" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white&logoWidth=20&logoHeight=20" style="border-radius: 10px;" />
-  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=20&logoHeight=20" style="border-radius: 10px;" />
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&logoWidth=20&logoHeight=20" style="border-radius: 10px;" />
-  <img alt="Dev-C++" src="https://img.shields.io/badge/-Dev--C++-5F5F5F?style=for-the-badge&logo=cplusplus&logoColor=white&logoWidth=20&logoHeight=20" style="border-radius: 10px;" />
+<p align="start" style="font-size: 1.1rem;">
+  I’m actively looking for new opportunities to collaborate on exciting projects and work with innovative teams. If you’re searching for someone who’s passionate, skilled, and ready to bring fresh ideas to the table, let’s connect! Together, we can create something amazing. 🚀
+</p>
+
+<p align="start" style="font-size: 1.1rem;">
+  📫 Feel free to reach out at <a href="mailto:shawaizkhan.biz@gmail.com">shawaizkhan.biz@gmail.com</a> or check out my portfolio at <a href="https://shawaizkhan.vercel.app" target="_blank">shawaizkhan.vercel.app</a>.
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shawaiz-khan&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+### 🧑‍💻 Frontend
+<p align="start" style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img alt="Material UI" src="https://img.shields.io/badge/-Material--UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+  <img alt="WordPress" src="https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+</p>
+
+### ⚙️ Backend & Databases
+<p align="start" style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img alt="Express.js" src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+### 🛠️ Dev Tools & Testing
+<p align="start" style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="Babel" src="https://img.shields.io/badge/-Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black" />
+  <img alt="Ava" src="https://img.shields.io/badge/-Ava-EC4A3F?style=for-the-badge&logo=ava&logoColor=white" />
+</p>
+
+### 🔥 Programming Languages
+<p align="start" style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ---
 
-### 🌐 Connect with Me
+## 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shawaiz-khan&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shawaiz-khan&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
   <a href="https://www.linkedin.com/in/bizshawaizkhan/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn" />
   </a>
@@ -71,10 +102,16 @@ I am open to new career opportunities and am eager to bring my skills to a dynam
   <a href="https://www.leetcode.com/shawaizkhan" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-%23F14C28.svg?&style=for-the-badge&logo=leetcode&logoColor=white" height="30" alt="LeetCode" />
   </a>
-  <a href="mailto:shawaiskhan.biz@gmail.com">
+  <a href="mailto:shawaizkhan.biz@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="Email" />
   </a>
   <a href="https://shawaizkhan.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%230A0A0A.svg?&style=for-the-badge&logo=web&logoColor=white" height="30" alt="Portfolio" />
   </a>
+</p>
+
+---
+
+<p align="center" style="font-size: 1.1rem;">
+  Thanks for visiting! Let’s connect and create something amazing together. 😊
 </p>
