@@ -93,14 +93,8 @@
   <a href="https://www.linkedin.com/in/bizshawaizkhan/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn" />
   </a>
-  <a href="https://codesandbox.com/shawaiz-khan" target="_blank">
-    <img src="https://img.shields.io/badge/CodeSandbox-%23F7DF1E.svg?&style=for-the-badge&logo=codesandbox&logoColor=white" height="30" alt="CodeSandbox" />
-  </a>
-  <a href="https://instagram.com/shawaizkhan_official" target="_blank">
+  <a href="https://instagram.com/shawaizkhan.dev" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height="30" alt="Instagram" />
-  </a>
-  <a href="https://www.leetcode.com/shawaizkhan" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-%23F14C28.svg?&style=for-the-badge&logo=leetcode&logoColor=white" height="30" alt="LeetCode" />
   </a>
   <a href="mailto:shawaizkhan.biz@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="Email" />
