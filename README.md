@@ -19,15 +19,15 @@
 ## 👨‍💻 About Me
 
 <p align="start" style="font-size: 1.1rem;">
-  Hey there! I’m a <strong>Frontend Web Developer</strong> and <strong>Creative Designer</strong> who loves building beautiful, user-friendly websites and applications. I specialize in <strong>React</strong>, <strong>Tailwind CSS</strong>, and <strong>WordPress</strong>, and I’m currently exploring <strong>Next.js</strong> to level up my full-stack skills. With a solid foundation in <strong>CSS</strong>, <strong>JavaScript</strong>, and <strong>Graphic Design</strong>, I combine technical expertise with a creative touch to deliver projects that look great and work even better.
+  Hey there! I’m a <strong>MERN Stack Developer</strong> and <strong>Creative Designer</strong> who loves building user-friendly websites and web apps. I specialize in <strong>MongoDB, Express.js, React, and Node.js</strong>, handling both the frontend and backend to create smooth and efficient applications.
 </p>
 
 <p align="start" style="font-size: 1.1rem;">
-  I enjoy solving problems and creating seamless experiences for users. Whether it’s designing responsive interfaces, optimizing performance, or bringing ideas to life, I’m always up for a challenge. I’m also diving into <strong>AI integration</strong> and <strong>headless CMS</strong> to stay ahead in the ever-evolving tech world.
+  I enjoy solving problems and making seamless user experiences. Whether it’s designing a clean UI, fixing bugs, or improving performance, I’m always up for a challenge. Recently, I’ve been exploring <strong>AI integration</strong> and <strong>headless CMS</strong> to stay ahead in the evolving tech world.
 </p>
 
 <p align="start" style="font-size: 1.1rem;">
-  I’m actively looking for new opportunities to collaborate on exciting projects and work with innovative teams. If you’re searching for someone who’s passionate, skilled, and ready to bring fresh ideas to the table, let’s connect! Together, we can create something amazing. 🚀
+  I’m always open to working on exciting projects and collaborating with innovative teams. If you need a developer who’s passionate, skilled, and ready to bring fresh ideas to the table, let’s connect! 🚀
 </p>
 
 <p align="start" style="font-size: 1.1rem;">
