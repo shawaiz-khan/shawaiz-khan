@@ -86,9 +86,11 @@
 
 ---
 
-## 🌐 Connect with Me
-
-<p align="center">
+<div>
+  <p align="center" style="font-size: 1.1rem;">
+    Thanks for visiting! Let’s connect and create something amazing together.
+  </p>
+  <p p align="center">
   <a href="https://www.linkedin.com/in/bizshawaizkhan/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn" />
   </a>
@@ -101,10 +103,5 @@
   <a href="https://shawaizkhan.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%230A0A0A.svg?&style=for-the-badge&logo=web&logoColor=white" height="30" alt="Portfolio" />
   </a>
-</p>
-
----
-
-<p align="center" style="font-size: 1.1rem;">
-  Thanks for visiting! Let’s connect and create something amazing together.
-</p>
+    </p>
+</div>
