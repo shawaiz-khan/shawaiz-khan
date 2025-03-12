@@ -36,7 +36,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stacks
 
 ### 🧑‍💻 Frontend  
 <p align="start">
