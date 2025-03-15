@@ -16,7 +16,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About
 
 <p align="start" style="font-size: 1.1rem;">
   Hey there! I’m a <strong>MERN Stack Developer</strong> and <strong>Creative Designer</strong> who loves building user-friendly websites and web apps. I specialize in <strong>MongoDB, Express.js, React, and Node.js</strong> along with prior knowledge in <strong>Next.js</strong>, handling both the frontend and backend to create smooth and efficient applications.
@@ -36,7 +36,7 @@
 
 ---
 
-## 🛠️ Tech Stacks
+## 🛠️ Stacks
 
 ### 🧑‍💻 Frontend  
 <p align="start">
@@ -81,7 +81,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Stats
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shawaiz-khan&theme=react-dark" alt="Graph" />
