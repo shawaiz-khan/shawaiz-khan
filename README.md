@@ -22,7 +22,7 @@
   Hey there! I’m a <strong>MERN Stack Developer</strong> and <strong>Creative Designer</strong> who loves building user-friendly websites and web apps. I specialize in <strong>MongoDB, Express.js, React, and Node.js</strong> along with prior knowledge in <strong>Next.js</strong>, handling both the frontend and backend to create smooth and efficient applications.
 </p>
 
-<p align="start" style="font-size: 1.1rem;">
+<p align="start" style="font-size: 1.1rem;" >
   I enjoy solving problems and making seamless user experiences. Whether it’s designing a clean UI, fixing bugs, or improving performance, I’m always up for a challenge. Recently, I’ve been exploring <strong>AI integration</strong> and <strong>headless CMS</strong> to stay ahead in the evolving tech world.
 </p>
 
