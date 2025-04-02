@@ -8,7 +8,7 @@
 
 ---
 
-## 🐍 Contributions
+### 🐍 Contributions
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/shawaiz-khan/shawaiz-khan/output/snake.svg" alt="Snake Animation" />
@@ -16,7 +16,7 @@
 
 ---
 
-## 👨‍💻 About
+### 👨‍💻 About
 
 <p align="start" style="font-size: 1.1rem;">
   Hey there! I’m a <strong>MERN Stack Developer</strong> and <strong>Creative Designer</strong> who loves building user-friendly websites and web apps. I specialize in <strong>MongoDB, Express.js, React, and Node.js</strong> along with prior knowledge in <strong>Next.js</strong>, handling both the frontend and backend to create smooth and efficient applications.
@@ -79,7 +79,7 @@
 
 ---
 
-## 📊 Stats
+### 📊 Stats
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shawaiz-khan&theme=react-dark" alt="Graph" />
