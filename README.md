@@ -11,7 +11,7 @@
 ### 🐍 Contributions
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/shawaiz-khan/shawaiz-khan/output/snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/shawaiz-khan/shawaiz-khan/output/snake.svg" alt="Snake Animation"  />
 </div>
 
 ---
