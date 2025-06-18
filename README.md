@@ -4,7 +4,10 @@
   <img src="https://github.com/shawaiz-khan/shawaiz-khan/blob/main/banner.png" alt="Intro Banner" style="max-width: 100%; height: auto;"/>
 </div>
 
-<p align="center" style="font-size: 1.5rem; font-weight: bold;">🚀 Open to Work | 💻 MERN Stack Developer</p>
+<br>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=shawaiz-khan&color=blue" alt="Profile views" />
+</div>
 
 ---
 
