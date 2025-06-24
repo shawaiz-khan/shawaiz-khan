@@ -4,7 +4,7 @@
   <img src="https://github.com/shawaiz-khan/shawaiz-khan/blob/main/banner.png" alt="Intro Banner" style="max-width: 100%; height: auto;" />
 </div>
 
-<br>
+<br >
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=shawaiz-khan&color=blue" alt="Profile views" />
 </div>
