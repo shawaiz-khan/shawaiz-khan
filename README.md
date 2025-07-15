@@ -88,7 +88,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shawaiz-khan&theme=react-dark" alt="Graph" />
   <img src="https://github-readme-stats.vercel.app/api?username=shawaiz-khan&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shawaiz-khan&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://github-profile-trophy.vercel.app/?username=shawaiz-khan&theme=radical&no-bg=true&column=8&title=MultiLanguage,Commits,Repositories,PullRequest,Reviews,Issues,Followers,Experience" alt="Trophies" />
+  <img src="https://camo.githubusercontent.com/f4d077f980c668898bfcc06d44f13e73486ca887fb8c7e7fa417c8aa11f461b3/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d7368617761697a2d6b68616e267468656d653d7261646963616c266e6f2d62673d7472756526636f6c756d6e3d38267469746c653d4d756c74694c616e67756167652c436f6d6d6974732c5265706f7369746f726965732c50756c6c526571756573742c526576696577732c4973737565732c466f6c6c6f776572732c457870657269656e6365" alt="Trophies" />
 </p>
 
 ---
