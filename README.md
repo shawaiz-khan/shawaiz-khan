@@ -1,7 +1,7 @@
 <h1 align="center">👋 Welcome to My Profile!</h1>
 
 <div align="center">
-  <img src="https://github.com/shawaiz-khan/shawaiz-khan/blob/main/banner.png" alt="Intro Banner" style="max-width: 100%; height: auto;" />
+  <img src="https://github.com/shawaiz-khan/shawaiz-khan/blob/main/banner.png" alt="Intro Banner" style="max-width: 100%; height: auto;"/>
 </div>
 
 <br>
