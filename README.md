@@ -22,19 +22,19 @@
 ### 👨‍💻 About
 
 <p align="start" style="font-size: 1.1rem;">
-  Hey there! I’m a <strong>MERN Stack Developer</strong> and <strong>Creative Designer</strong> who loves building user-friendly websites and web apps. I specialize in <strong>MongoDB, Express.js, React, and Node.js</strong> along with prior knowledge in <strong>Next.js</strong>, handling both the frontend and backend to create smooth and efficient applications.
-</p>
-
-<p align="start" style="font-size: 1.1rem;" >
-  I enjoy solving problems and making seamless user experiences. Whether it’s designing a clean UI, fixing bugs, or improving performance, I’m always up for a challenge. Recently, I’ve been exploring <strong>AI integration</strong> and <strong>headless CMS</strong> to stay ahead in the evolving tech world.
+  Hey there! I’m a <strong>Full-Stack Web & Mobile App Developer</strong> and <strong>Creative Designer</strong> passionate about building user-friendly websites, web apps, and mobile applications. I specialize in <strong>MongoDB, Express.js, React, Node.js (MERN)</strong> with experience in <strong>Next.js</strong> and <strong>React Native</strong>, handling both frontend and backend to deliver smooth, scalable, and efficient solutions.
 </p>
 
 <p align="start" style="font-size: 1.1rem;">
-  I’m always open to working on exciting projects and collaborating with innovative teams. If you need a developer who’s passionate, skilled, and ready to bring fresh ideas to the table, let’s connect! 🚀
+  I enjoy solving problems and creating seamless user experiences. Whether it’s designing a clean UI, fixing bugs, or improving performance, I’m always up for a challenge. Recently, I’ve been exploring <strong>AI integration</strong> and <strong>headless CMS</strong> to stay ahead in the evolving tech landscape.
 </p>
 
 <p align="start" style="font-size: 1.1rem;">
-  📫 Feel free to reach out at <a href="mailto:shawaizkhan.biz@gmail.com">shawaizkhan.biz@gmail.com</a> or check out my portfolio at <a href="https://shawaizkhan.vercel.app" target="_blank">shawaizkhan.vercel.app</a>.
+  Open to collaborating on exciting projects and working with innovative teams. If you need a developer who’s skilled, reliable, and ready to bring fresh ideas to your project, let’s connect! 🚀
+</p>
+
+<p align="start" style="font-size: 1.1rem;">
+  📫 Reach out at <a href="mailto:shawaizkhan.biz@gmail.com">shawaizkhan.biz@gmail.com</a> or check out my portfolio at <a href="https://shawaizkhan.vercel.app" target="_blank">shawaizkhan.vercel.app</a>.
 </p>
 
 ---
@@ -47,6 +47,7 @@
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img alt="React Native" src="https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img alt="Material UI" src="https://img.shields.io/badge/-Material--UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
@@ -58,6 +59,7 @@
 <p align="start">
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img alt="Express.js" src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
@@ -79,7 +81,6 @@
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
-
 ---
 
 ### 📊 Stats
