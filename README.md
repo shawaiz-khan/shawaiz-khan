@@ -26,7 +26,7 @@
 </p>
 
 <p align="start" style="font-size: 1.1rem;">
-  I enjoy solving problems and creating seamless user experiences. Whether it’s designing a clean UI, fixing bugs, or improving performance, I’m always up for a challenge. Recently, I’ve been exploring <strong>AI integration</strong> and <strong>headless CMS</strong> to stay ahead in the evolving tech landscape.
+  I enjoy solving problems and creating seamless user experiences. Whether it’s designing a clean UI, fixing bugs, or improving performance, I’m always up for a challenge. Recently, I’ve been exploring <strong>AI integration</strong> and <strong>GSAP</strong> to stay ahead in the evolving tech landscape.
 </p>
 
 <p align="start" style="font-size: 1.1rem;">
@@ -34,7 +34,7 @@
 </p>
 
 <p align="start" style="font-size: 1.1rem;">
-  📫 Reach out at <a href="mailto:shawaizkhan.biz@gmail.com">shawaizkhan.biz@gmail.com</a> or check out my portfolio at <a href="https://shawaizkhan.vercel.app" target="_blank">shawaizkhan.vercel.app</a>.
+  📫 Reach out at <a href="mailto:hello@shawaizkhan.dev">hello@shawaizkhan.dev</a>, <a href="mailto:shawaizkhan.biz@gmail.com">shawaizkhan.biz@gmail.com</a> or check out my portfolio at <a href="https://shawaizkhan.vercel.app" target="_blank">shawaizkhan.vercel.app</a>.
 </p>
 
 ---
