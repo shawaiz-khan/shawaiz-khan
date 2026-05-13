@@ -38,8 +38,8 @@
 </p>
 
 <p align="start" style="font-size: 1.1rem;">
-  📫 Reach me at <a href="mailto:hello@shawaizkhan.dev">hello@shawaizkhan.dev</a> or <a href="mailto:shawaizkhan.biz@gmail.com">shawaizkhan.biz@gmail.com</a>.  
-  Portfolio: <a href="https://shawaizkhan.vercel.app" target="_blank">shawaizkhan.vercel.app</a>
+  📫 Reach me at <a href="mailto:shawaizkhan.biz@gmail.com">shawaizkhan.biz@gmail.com</a>.  
+  Portfolio: <a href="#" target="_blank">[Updating...]</a>
 </p>
 
 ---
