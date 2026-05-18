@@ -1,7 +1,7 @@
 <h1 align="center">👋 Welcome to My Profile!</h1>
 
 <div align="center">
-  <img src="https://github.com/shawaiz-khan/shawaiz-khan/blob/main/banner.png" alt="Intro Banner" style="max-width: 100%; height: auto;" />
+  <img src="https://github.com/shawaiz-khan/shawaiz-khan/blob/main/banner_new.png" alt="Intro Banner" style="max-width: 100%; height: auto;" />
 </div>
 
 <br>
@@ -22,29 +22,29 @@
 ### 👨‍💻 About
 
 <p align="start" style="font-size: 1.1rem;">
-  Hey there! I’m <strong>Shawaiz Khan</strong>, a <strong>Full Stack Web and Mobile App Developer</strong> and <strong>Creative Designer</strong> passionate about building smooth, scalable, and purposeful digital experiences.  
+  Hey there! I’m <strong>Shawaiz Khan</strong>, a <strong>Full Stack Web and Mobile App Developer</strong> and <strong>Creative Designer</strong> passionate about building smooth, scalable, and purposeful digital experiences.
 </p>
 
 <p align="start" style="font-size: 1.1rem;">
-  I work across the <strong>MERN stack</strong> with strong experience in <strong>Next.js</strong> and <strong>React Native</strong>. My focus is on creating interfaces that feel natural and systems that perform efficiently. I enjoy merging design with logic, crafting solutions that are both beautiful and functional.  
+  I work across the <strong>MERN stack</strong> with strong experience in <strong>Next.js</strong> and <strong>React Native</strong>. My focus is on creating interfaces that feel natural and systems that perform efficiently. I enjoy merging design with logic, crafting solutions that are both beautiful and functional.
 </p>
 
 <p align="start" style="font-size: 1.1rem;">
-  Lately, I’ve been exploring <strong>AI integration</strong> and <strong>GSAP</strong> to build motion-rich, intelligent interfaces that push beyond the usual web experience.  
+  Lately, I’ve been exploring <strong>AI integration</strong> and <strong>GSAP</strong> to build motion-rich, intelligent interfaces that push beyond the usual web experience.
 </p>
 
 <p align="start" style="font-size: 1.1rem;">
-  I’m always open to collaborations, challenges, and innovative projects that test creative boundaries. If you’re building something impactful, I’d love to be part of it. 🚀  
+  I’m always open to collaborations, challenges, and innovative projects that test creative boundaries. If you’re building something impactful, I’d love to be part of it. 🚀
 </p>
 
 <p align="start" style="font-size: 1.1rem;">
-  📫 Reach me at <a href="mailto:shawaizkhan.biz@gmail.com">shawaizkhan.biz@gmail.com</a>.  
+  📫 Reach me at <a href="mailto:shawaizkhan.biz@gmail.com">shawaizkhan.biz@gmail.com</a>.
   Portfolio: <a href="#" target="_blank">[Updating...]</a>
 </p>
 
 ---
 
-### 🧑‍💻 Frontend  
+### 🧑‍💻 Frontend
 <p align="start">
   <img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -61,7 +61,7 @@
   <img alt="WordPress" src="https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 </p>
 
-### ⚙️ Backend & Databases  
+### ⚙️ Backend & Databases
 <p align="start">
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img alt="Express.js" src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white" />
@@ -70,7 +70,7 @@
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-### 🛠️ Dev Tools & Design  
+### 🛠️ Dev Tools & Design
 <p align="start">
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -86,7 +86,7 @@
   <img alt="Adobe Illustrator" src="https://img.shields.io/badge/-Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" />
 </p>
 
-### 🔥 Programming Languages  
+### 🔥 Programming Languages
 <p align="start">
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
