@@ -116,7 +116,7 @@
     <a href="https://instagram.com/shawaizkhan.dev" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height="30" alt="Instagram" />
     </a>
-    <a href="mailto:shawaizkhan.biz@gmail.com">
+    <a href="mailto:shawaizkhan.biz+github@gmail.com">
       <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="Email" />
     </a>
     <a href="https://shawaizkhan.vercel.app/" target="_blank">
