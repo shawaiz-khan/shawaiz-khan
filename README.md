@@ -14,9 +14,9 @@
 
 Hey there! I'm **Shawaiz Khan**, a **Full Stack Software Engineer**, **Mobile App Developer**, and **Creative Designer** passionate about building smooth, scalable, and purposeful digital experiences.
 
-I work across the **MERN stack** with strong experience in **Next.js** and **React Native**. My focus is on creating interfaces that feel natural and systems that perform efficiently, merging design with logic to craft solutions that are both beautiful and functional.
+I work across the **MERN stack** with strong experience in **Next.js**, **React Native**, and **Flutter**. My focus is on creating interfaces that feel natural and systems that perform efficiently, merging design with logic to craft solutions that are both beautiful and functional.
 
-Lately, I've been exploring **AI engineering**, **AI integration**, and **GSAP** to build motion-rich, intelligent interfaces that push beyond the usual web experience.
+Lately, I've been exploring **AI engineering** and **AI integration** to build intelligent interfaces that push beyond the usual web experience.
 
 I'm always open to collaborations, challenges, and innovative projects that test creative boundaries. If you're building something impactful, I'd love to be part of it. 🚀
 
@@ -33,11 +33,11 @@ I'm always open to collaborations, challenges, and innovative projects that test
   <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img alt="React Native" src="https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img alt="Material UI" src="https://img.shields.io/badge/-Material--UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
   <img alt="Shadcn UI" src="https://img.shields.io/badge/-Shadcn%20UI-000000?style=for-the-badge&logoColor=white" />
-  <img alt="GSAP" src="https://img.shields.io/badge/-GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
   <img alt="WordPress" src="https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 </p>
 
