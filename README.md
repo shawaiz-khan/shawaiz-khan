@@ -1,51 +1,31 @@
 <h1 align="center">👋 Welcome to My Profile!</h1>
 
 <div align="center">
-  <img src="https://github.com/shawaiz-khan/shawaiz-khan/blob/main/banner_1.png" alt="Intro Banner" style="max-width: 100%; height: auto;" />
+  <img src="https://github.com/shawaiz-khan/shawaiz-khan/blob/main/banner_1.png" alt="Intro Banner" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=shawaiz-khan&color=blue&style=flat" alt="Profile views" />
 </div>
 
 <br>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=shawaiz-khan&color=blue" alt="Profile views" />
-</div>
-
----
-
-### 🐍 Contributions
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/shawaiz-khan/shawaiz-khan/output/snake.svg" alt="Snake Animation" />
-</div>
-
----
 
 ### 👨‍💻 About
 
-<p align="start" style="font-size: 1.1rem;">
-  Hey there! I’m <strong>Shawaiz Khan</strong>, a <strong>Full Stack Web and Mobile App Developer</strong> and <strong>Creative Designer</strong> passionate about building smooth, scalable, and purposeful digital experiences.
-</p>
+Hey there! I'm **Shawaiz Khan**, a **Full Stack Web and Mobile App Developer** and **Creative Designer** passionate about building smooth, scalable, and purposeful digital experiences.
 
-<p align="start" style="font-size: 1.1rem;">
-  I work across the <strong>MERN stack</strong> with strong experience in <strong>Next.js</strong> and <strong>React Native</strong>. My focus is on creating interfaces that feel natural and systems that perform efficiently. I enjoy merging design with logic, crafting solutions that are both beautiful and functional.
-</p>
+I work across the **MERN stack** with strong experience in **Next.js** and **React Native**. My focus is on creating interfaces that feel natural and systems that perform efficiently — merging design with logic to craft solutions that are both beautiful and functional.
 
-<p align="start" style="font-size: 1.1rem;">
-  Lately, I’ve been exploring <strong>AI integration</strong> and <strong>GSAP</strong> to build motion-rich, intelligent interfaces that push beyond the usual web experience.
-</p>
+Lately, I've been exploring **AI integration** and **GSAP** to build motion-rich, intelligent interfaces that push beyond the usual web experience.
 
-<p align="start" style="font-size: 1.1rem;">
-  I’m always open to collaborations, challenges, and innovative projects that test creative boundaries. If you’re building something impactful, I’d love to be part of it. 🚀
-</p>
+I'm always open to collaborations, challenges, and innovative projects that test creative boundaries. If you're building something impactful, I'd love to be part of it. 🚀
 
-<p align="start" style="font-size: 1.1rem;">
-  📫 Reach me at <a href="mailto:shawaizkhan.biz@gmail.com">shawaizkhan.biz@gmail.com</a>.
-  Portfolio: <a href="#" target="_blank">[Updating...]</a>
-</p>
+📫 Reach me at [shawaizkhan.biz@gmail.com](mailto:shawaizkhan.biz@gmail.com) or [info@heyshawaiz.com](mailto:info@heyshawaiz.com) · 🌐 Portfolio: [heyshawaiz.com](https://heyshawaiz.com/)
 
----
+<br>
 
 ### 🧑‍💻 Frontend
-<p align="start">
+<p align="left">
   <img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -62,7 +42,7 @@
 </p>
 
 ### ⚙️ Backend & Databases
-<p align="start">
+<p align="left">
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img alt="Express.js" src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
@@ -71,7 +51,7 @@
 </p>
 
 ### 🛠️ Dev Tools & Design
-<p align="start">
+<p align="left">
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
@@ -87,39 +67,43 @@
 </p>
 
 ### 🔥 Programming Languages
-<p align="start">
+<p align="left">
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
----
+<br>
 
+### 🐍 Contributions
 
-<!-- <p align="center">
-  ### 📊 Stats
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shawaiz-khan&theme=react-dark" alt="Graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=shawaiz-khan&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shawaiz-khan&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://camo.githubusercontent.com/f4d077f980c668898bfcc06d44f13e73486ca887fb8c7e7fa417c8aa11f461b3/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d7368617761697a2d6b68616e267468656d653d7261646963616c266e6f2d62673d7472756526636f6c756d6e3d38267469746c653d4d756c74694c616e67756167652c436f6d6d6974732c5265706f7369746f726965732c50756c6c526571756573742c526576696577732c4973737565732c466f6c6c6f776572732c457870657269656e6365" alt="Trophies" />
-</p> -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shawaiz-khan/shawaiz-khan/output/snake.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shawaiz-khan/shawaiz-khan/output/snake-light.svg" />
+    <img src="https://raw.githubusercontent.com/shawaiz-khan/shawaiz-khan/output/snake.svg" alt="Snake Animation" />
+  </picture>
+</div>
 
----
+<br>
 
-<div>
-  <p align="center" style="font-size: 1.1rem;">
+<div align="center">
+  <p>
     Thanks for visiting! Let's connect and build something extraordinary together.
   </p>
-  <p align="center">
+  <p>
     <a href="https://www.linkedin.com/in/bizshawaizkhan/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn" />
     </a>
     <a href="https://instagram.com/shawaizkhan.dev" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height="30" alt="Instagram" />
     </a>
-    <a href="mailto:shawaizkhan.biz+github@gmail.com">
+    <a href="mailto:shawaizkhan.biz@gmail.com">
       <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="Email" />
     </a>
-    <a href="https://shawaizkhan.vercel.app/" target="_blank">
+    <a href="mailto:info@heyshawaiz.com">
+      <img src="https://img.shields.io/badge/Email-%230A0A0A.svg?&style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="Secondary Email" />
+    </a>
+    <a href="https://heyshawaiz.com/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-%230A0A0A.svg?&style=for-the-badge&logo=web&logoColor=white" height="30" alt="Portfolio" />
     </a>
   </p>
