@@ -12,11 +12,11 @@
 
 ### 👨‍💻 About
 
-Hey there! I'm **Shawaiz Khan**, a **Full Stack Web and Mobile App Developer** and **Creative Designer** passionate about building smooth, scalable, and purposeful digital experiences.
+Hey there! I'm **Shawaiz Khan**, a **Full Stack Software Engineer**, **Mobile App Developer**, and **Creative Designer** passionate about building smooth, scalable, and purposeful digital experiences.
 
-I work across the **MERN stack** with strong experience in **Next.js** and **React Native**. My focus is on creating interfaces that feel natural and systems that perform efficiently — merging design with logic to craft solutions that are both beautiful and functional.
+I work across the **MERN stack** with strong experience in **Next.js** and **React Native**. My focus is on creating interfaces that feel natural and systems that perform efficiently, merging design with logic to craft solutions that are both beautiful and functional.
 
-Lately, I've been exploring **AI integration** and **GSAP** to build motion-rich, intelligent interfaces that push beyond the usual web experience.
+Lately, I've been exploring **AI engineering**, **AI integration**, and **GSAP** to build motion-rich, intelligent interfaces that push beyond the usual web experience.
 
 I'm always open to collaborations, challenges, and innovative projects that test creative boundaries. If you're building something impactful, I'd love to be part of it. 🚀
 
