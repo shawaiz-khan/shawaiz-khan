@@ -91,7 +91,7 @@ I'm always open to collaborations, challenges, and innovative projects that test
     Thanks for visiting! Let's connect and build something extraordinary together.
   </p>
   <p>
-    <a href="https://www.linkedin.com/in/bizshawaizkhan/" target="_blank">
+    <a href="https://www.linkedin.com/in/heyshawaiz/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn" />
     </a>
     <a href="https://instagram.com/shawaizkhan.dev" target="_blank">
