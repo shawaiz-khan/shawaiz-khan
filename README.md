@@ -10,6 +10,23 @@
 
 <br>
 
+<div align="center">
+  <a href="https://heyshawaiz.com/" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-0B3D91?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/bizshawaizkhan/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0B3D91?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/shawaizkhan.dev" target="_blank">
+    <img src="https://img.shields.io/badge/INSTAGRAM-0B3D91?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:shawaizkhan.biz@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-0B3D91?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+<br>
+
 ### 👨‍💻 About
 
 Hey there! I'm **Shawaiz Khan**, a **Full Stack Software Engineer**, **Mobile App Developer**, and **Creative Designer** passionate about building smooth, scalable, and purposeful digital experiences.
@@ -24,53 +41,46 @@ I'm always open to collaborations, challenges, and innovative projects that test
 
 <br>
 
+### Building Toward
+
+```js
+const focus = {
+  interfaces: "AI-integrated, intelligent UI",
+  platforms: ["Next.js", "React Native", "Flutter"],
+  systems: "scalable MERN stack architecture",
+  approach: "design-driven development",
+};
+```
+
+<br>
+
+### 🔥 Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,html,css,php&theme=dark" alt="C++, Python, JavaScript, TypeScript, HTML, CSS, PHP" />
+</p>
+
+`C++` `Python` `JavaScript` `TypeScript` `HTML` `CSS` `PHP`
+
 ### 🧑‍💻 Frontend
 <p align="left">
-  <img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img alt="React Native" src="https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img alt="Material UI" src="https://img.shields.io/badge/-Material--UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
-  <img alt="Shadcn UI" src="https://img.shields.io/badge/-Shadcn%20UI-000000?style=for-the-badge&logoColor=white" />
-  <img alt="WordPress" src="https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,materialui,flutter&theme=dark" alt="React, Next.js, Tailwind CSS, Bootstrap, Material UI, Flutter" />
 </p>
+
+`React` `Next.js` `React Native` `Flutter` `Tailwind CSS` `Bootstrap` `Material UI` `Shadcn UI` `WordPress`
 
 ### ⚙️ Backend & Databases
 <p align="left">
-  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img alt="Express.js" src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" alt="Node.js, Express, MongoDB, MySQL" />
 </p>
+
+`Node.js` `Express.js` `MongoDB` `MySQL`
 
 ### 🛠️ Dev Tools & Design
 <p align="left">
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img alt="Babel" src="https://img.shields.io/badge/-Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black" />
-  <img alt="ESLint" src="https://img.shields.io/badge/-ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" />
-  <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
-  <img alt="Adobe Illustrator" src="https://img.shields.io/badge/-Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,vite,figma,ps,ai&theme=dark" alt="Git, GitHub, VS Code, Docker, Postman, Vite, Figma, Photoshop, Illustrator" />
 </p>
 
-### 🔥 Programming Languages
-<p align="left">
-  <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
+`Git` `GitHub` `VS Code` `Docker` `Postman` `Vite` `Babel` `ESLint` `Prettier` `Figma` `Photoshop` `Illustrator`
 
 <br>
 
