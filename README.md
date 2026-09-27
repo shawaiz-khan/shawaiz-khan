@@ -115,6 +115,10 @@ const focus = {
       <img src="https://img.shields.io/badge/Portfolio-ffbc51?style=for-the-badge&logo=web&logoColor=000000" height="30" alt="Portfolio" />
     </a>
   </p>
-  <br>
+</div>
+
+---
+
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=shawaiz-khan&color=blue&style=flat" alt="Profile views" />
 </div>
