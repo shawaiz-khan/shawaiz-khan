@@ -56,10 +56,10 @@ const focus = {
 
 **Languages**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,html,css,php&theme=dark" alt="C++, Python, JavaScript, TypeScript, HTML, CSS, PHP" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,html,css&theme=dark" alt="C++, Python, JavaScript, TypeScript, HTML, CSS" />
 </p>
 
-`C++` `Python` `JavaScript` `TypeScript` `HTML` `CSS` `PHP`
+`C++` `Python` `JavaScript` `TypeScript` `HTML` `CSS`
 
 **Frontend**
 <p align="left">
