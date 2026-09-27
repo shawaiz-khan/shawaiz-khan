@@ -25,7 +25,7 @@ Lately, I've been exploring **AI engineering** and **AI integration** to build i
 
 I'm always open to collaborations, challenges, and innovative projects that test creative boundaries. If you're building something impactful, I'd love to be part of it. 🚀
 
-📫 Reach me at [shawaizkhan.biz@gmail.com](mailto:shawaizkhan.biz@gmail.com) or [info@heyshawaiz.com](mailto:info@heyshawaiz.com) · 🌐 Portfolio: [heyshawaiz.com](https://heyshawaiz.com/)
+**Reach me at:** [shawaizkhan.biz@gmail.com](mailto:shawaizkhan.biz@gmail.com) or [info@heyshawaiz.com](mailto:info@heyshawaiz.com) · **Portfolio:** [heyshawaiz.com](https://heyshawaiz.com/)
 
 ---
 
