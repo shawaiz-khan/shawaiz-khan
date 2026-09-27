@@ -1,5 +1,3 @@
-<h1 align="center">👋 Welcome to My Profile!</h1>
-
 <div align="center">
   <img src="https://github.com/shawaiz-khan/shawaiz-khan/blob/main/banner_1.png" alt="Intro Banner" width="100%" />
 </div>
@@ -25,7 +23,7 @@
   </a>
 </div>
 
-<br>
+---
 
 ### `ABOUT.ME`
 
@@ -39,7 +37,7 @@ I'm always open to collaborations, challenges, and innovative projects that test
 
 📫 Reach me at [shawaizkhan.biz@gmail.com](mailto:shawaizkhan.biz@gmail.com) or [info@heyshawaiz.com](mailto:info@heyshawaiz.com) · 🌐 Portfolio: [heyshawaiz.com](https://heyshawaiz.com/)
 
-<br>
+---
 
 ### `BUILD.FOCUS`
 
@@ -52,7 +50,7 @@ const focus = {
 };
 ```
 
-<br>
+---
 
 ### `TECH.STACK`
 
@@ -84,7 +82,7 @@ const focus = {
 
 `Git` `GitHub` `VS Code` `Docker` `Postman` `Vite` `Babel` `ESLint` `Prettier` `Figma` `Photoshop` `Illustrator`
 
-<br>
+---
 
 ### `CONTRIBUTIONS`
 
@@ -96,7 +94,7 @@ const focus = {
   </picture>
 </div>
 
-<br>
+---
 
 ### `CONNECT`
 
