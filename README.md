@@ -14,7 +14,7 @@
   <a href="https://heyshawaiz.com/" target="_blank">
     <img src="https://img.shields.io/badge/PORTFOLIO-0B3D91?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/bizshawaizkhan/" target="_blank">
+  <a href="https://www.linkedin.com/in/heyshawaiz/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0B3D91?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/shawaizkhan.dev" target="_blank">
