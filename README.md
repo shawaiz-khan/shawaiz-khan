@@ -4,14 +4,14 @@
 
 <br>
 
-<table width="100%">
-<tr>
-<td width="25%" align="center"><a href="https://heyshawaiz.com/"><img src="https://img.shields.io/badge/PORTFOLIO-ffbc51?style=for-the-badge&logo=vercel&logoColor=000000" alt="Portfolio"></a></td>
-<td width="25%" align="center"><a href="https://www.linkedin.com/in/heyshawaiz/"><img src="https://img.shields.io/badge/LINKEDIN-ffbc51?style=for-the-badge&logo=linkedin&logoColor=000000" alt="LinkedIn"></a></td>
-<td width="25%" align="center"><a href="https://instagram.com/shawaizkhan.dev"><img src="https://img.shields.io/badge/INSTAGRAM-ffbc51?style=for-the-badge&logo=instagram&logoColor=000000" alt="Instagram"></a></td>
-<td width="25%" align="center"><a href="mailto:shawaizkhan.biz@gmail.com"><img src="https://img.shields.io/badge/EMAIL-ffbc51?style=for-the-badge&logo=gmail&logoColor=000000" alt="Email"></a></td>
-</tr>
-</table>
+<div align="center">
+
+<a href="https://heyshawaiz.com/"><img src="https://img.shields.io/badge/PORTFOLIO-ffbc51?style=for-the-badge&logo=vercel&logoColor=000000" alt="Portfolio"></a>
+<a href="https://www.linkedin.com/in/heyshawaiz/"><img src="https://img.shields.io/badge/LINKEDIN-ffbc51?style=for-the-badge&logo=linkedin&logoColor=000000" alt="LinkedIn"></a>
+<a href="https://instagram.com/shawaizkhan.dev"><img src="https://img.shields.io/badge/INSTAGRAM-ffbc51?style=for-the-badge&logo=instagram&logoColor=000000" alt="Instagram"></a>
+<a href="mailto:shawaizkhan.biz@gmail.com"><img src="https://img.shields.io/badge/EMAIL-ffbc51?style=for-the-badge&logo=gmail&logoColor=000000" alt="Email"></a>
+
+</div>
 
 ---
 
@@ -92,17 +92,13 @@ const focus = {
 
 Thanks for visiting! Let's connect and build something extraordinary together.
 
-</div>
+<a href="https://www.linkedin.com/in/heyshawaiz/"><img src="https://img.shields.io/badge/LINKEDIN-ffbc51?style=for-the-badge&logo=linkedin&logoColor=000000" alt="LinkedIn"></a>
+<a href="https://instagram.com/shawaizkhan.dev"><img src="https://img.shields.io/badge/INSTAGRAM-ffbc51?style=for-the-badge&logo=instagram&logoColor=000000" alt="Instagram"></a>
+<a href="mailto:shawaizkhan.biz@gmail.com"><img src="https://img.shields.io/badge/EMAIL-ffbc51?style=for-the-badge&logo=gmail&logoColor=000000" alt="Email"></a>
+<a href="mailto:info@heyshawaiz.com"><img src="https://img.shields.io/badge/SECONDARY%20EMAIL-ffbc51?style=for-the-badge&logo=gmail&logoColor=000000" alt="Secondary Email"></a>
+<a href="https://heyshawaiz.com/"><img src="https://img.shields.io/badge/PORTFOLIO-ffbc51?style=for-the-badge&logo=web&logoColor=000000" alt="Portfolio"></a>
 
-<table width="100%">
-<tr>
-<td width="20%" align="center"><a href="https://www.linkedin.com/in/heyshawaiz/"><img src="https://img.shields.io/badge/LINKEDIN-ffbc51?style=for-the-badge&logo=linkedin&logoColor=000000" alt="LinkedIn"></a></td>
-<td width="20%" align="center"><a href="https://instagram.com/shawaizkhan.dev"><img src="https://img.shields.io/badge/INSTAGRAM-ffbc51?style=for-the-badge&logo=instagram&logoColor=000000" alt="Instagram"></a></td>
-<td width="20%" align="center"><a href="mailto:shawaizkhan.biz@gmail.com"><img src="https://img.shields.io/badge/EMAIL-ffbc51?style=for-the-badge&logo=gmail&logoColor=000000" alt="Email"></a></td>
-<td width="20%" align="center"><a href="mailto:info@heyshawaiz.com"><img src="https://img.shields.io/badge/SECONDARY%20EMAIL-ffbc51?style=for-the-badge&logo=gmail&logoColor=000000" alt="Secondary Email"></a></td>
-<td width="20%" align="center"><a href="https://heyshawaiz.com/"><img src="https://img.shields.io/badge/PORTFOLIO-ffbc51?style=for-the-badge&logo=web&logoColor=000000" alt="Portfolio"></a></td>
-</tr>
-</table>
+</div>
 
 ---
 
