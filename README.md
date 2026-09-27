@@ -2,10 +2,6 @@
   <img src="https://github.com/shawaiz-khan/shawaiz-khan/blob/main/banner_1.png" alt="Intro Banner" width="100%" />
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=shawaiz-khan&color=blue&style=flat" alt="Profile views" />
-</div>
-
 <br>
 
 <div align="center">
@@ -119,4 +115,6 @@ const focus = {
       <img src="https://img.shields.io/badge/Portfolio-ffbc51?style=for-the-badge&logo=web&logoColor=000000" height="30" alt="Portfolio" />
     </a>
   </p>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=shawaiz-khan&color=blue&style=flat" alt="Profile views" />
 </div>
